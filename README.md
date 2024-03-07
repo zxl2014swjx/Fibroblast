@@ -13,7 +13,7 @@ Fibroblasts are a heterogeneous population of cells that exist in many human tis
 **Contact to**:
 zxl2014swjx@126.com / zhuxiuli@big.ac.cn
 
-**Workflow Accessible:** 
-CodeOcean / Zenodo / figshare to be continued
+**Accessible:** 
+CodeOcean / Zenodo / Figshare
 
-# **Please cite:** 
+**Please cite:** 
