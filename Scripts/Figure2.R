@@ -1,3 +1,5 @@
+# Figure 2. Characteristics of fibroblast subtypes.
+
 setwd("D:/SC_Fibroblast/0.Manuscript_Fibroblast/Github/")
 
 library(ggplot2)
