@@ -14,6 +14,6 @@ Fibroblasts represent a group of cells that play pivotal roles in development, d
 zxl2014swjx@126.com / zhuxiuli@big.ac.cn
 
 **Accessible:** 
-CodeOcean / Zenodo / Figshare
+Figshare
 
 **Please cite:** Under Review
