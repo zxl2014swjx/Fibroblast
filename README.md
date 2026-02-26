@@ -16,4 +16,4 @@ zhuxiuli@big.ac.cn / zxl2014swjx@126.com
 **Accessible:** 
 The files bigger than 25MB were uploaded on https://figshare.com/articles/dataset/Fibroblast_Heterogeneity/29582057.
 
-**Please cite:** Zhu X, Kang H, Zhao Z, Jia P. A systematic characterization of fibroblast subtypes and heterogeneity. iScience. 2025;28(12):113915. Published 2025 Nov 10. doi:10.1016/j.isci.2025.113915
+**Please cite:** Zhu X, Kang H, Zhao Z, Jia P. A systematic characterization of fibroblast subtypes and heterogeneity. iScience. 2025. doi:10.1016/j.isci.2025.113915
